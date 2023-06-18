@@ -1,14 +1,12 @@
-## Hi, I'm Himanshu Kumar, a Developer 🚀 from India. Currently, I’m a Computer Science Graduate student at the New York University, specializing in Data Science and Machine Learning.
+## NYU Computer Science Graduate (Data Science and Machine Learning)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hk3427)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-71099a117/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__himanshu23/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hk3427@nyu.edu)
 
 - 🔭 I’m currently working on enhancing my problem solving skills. 
-- 🌱 I’m currently learning React
-- 👯 I am looking for someone to collaborate for Kaggle competitions.
-- 🤔 I’m looking for help with learning Graph neural networks (GNNs). 
+- 🌱 I’m currently learning to train large langauge models (LLMs)
+- 👯 I am looking for someone to collaborate for Kaggle competitions. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hk3427@nyu.edu
 - 😄 Pronouns: He/Him
