@@ -38,10 +38,3 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="SQL" alt="SQL" width="65px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">|<img title="MongoDB" alt="MongoDB" width="70px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
  -->
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hk3427)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hk3427)](https://github.com/anuraghazra/github-readme-stats)
