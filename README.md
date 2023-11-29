@@ -4,8 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-71099a117/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hk3427@nyu.edu)
 
-- 🔭 I’m currently working on enhancing my problem solving skills. 
-- 🌱 I’m currently learning to train large langauge models (LLMs)
+- 🔭 I’m currently working on learning LLMOps tech stack (VectorDB, LangChain, PromptEngineering). 
+- 🌱 I’m currently learning to build large langauge models (LLMs) based applications
 - 👯 I am looking for someone to collaborate for Kaggle competitions. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: hk3427@nyu.edu
