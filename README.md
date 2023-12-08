@@ -1,4 +1,4 @@
-## NYU Computer Science Graduate (Data Science and Machine Learning)
+## NYU CS Grad
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hk3427)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-kumar-71099a117/)
